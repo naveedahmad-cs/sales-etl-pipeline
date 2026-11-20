@@ -1,0 +1,433 @@
+order_id,order_date,customer_name,product,quantity,unit_price,total_amount,city
+ORD-1061,2026-01-01,Omar Farooq,Mouse Pad,5,562.44,2812.2,Multan
+ORD-1316,2026-01-01,Usman Ali,Keyboard,2,536.28,1072.56,Karachi
+ORD-1324,2026-01-01,Hira Shah,Webcam Hd,1,630.92,630.92,Faisalabad
+ORD-1459,2026-01-01,Ali Ahmad,Headphones,1,62.47,62.47,Rawalpindi
+ORD-1187,2026-01-02,Omar Farooq,Keyboard,2,620.15,1240.3,Faisalabad
+ORD-1195,2026-01-02,Ahmed Raza,Headphones,2,981.03,1962.06,Multan
+ORD-1250,2026-01-02,Bilal Hussain,Usb-C Cable,5,711.28,3556.4,Rawalpindi
+ORD-1428,2026-01-02,Hassan Raza,Monitor 27 Inch,5,1089.0,5443.4,Islamabad
+ORD-1381,2026-01-03,Ayesha Khan,Webcam Hd,4,288.93,1155.72,Faisalabad
+ORD-1382,2026-01-03,Ali Ahmad,Webcam Hd,5,376.34,1881.7,Multan
+ORD-1468,2026-01-03,Omar Farooq,Webcam Hd,2,1004.41,2008.82,Multan
+ORD-1188,2026-01-04,Bilal Ahmed,Usb-C Cable,3,507.93,1523.79,Islamabad
+ORD-1377,2026-01-04,Ahmed Raza,Power Bank,2,1185.0,2370.74,Karachi
+ORD-1148,2026-01-05,Ahmed Raza,Ssd 512Gb,5,729.3,3646.5,Rawalpindi
+ORD-1302,2026-01-05,Danish Ali,Keyboard,1,225.92,225.92,Islamabad
+ORD-1328,2026-01-05,Omar Farooq,Laptop Stand,4,742.55,2970.2,Karachi
+ORD-1408,2026-01-05,Usman Ali,Keyboard,1,604.01,604.01,Rawalpindi
+ORD-1445,2026-01-05,Hira Shah,Ssd 512Gb,3,948.52,2845.56,Faisalabad
+ORD-1115,2026-01-06,Hassan Raza,Keyboard,3,315.58,946.74,Multan
+ORD-1160,2026-01-06,Bilal Hussain,Ssd 512Gb,2,654.62,1309.24,Islamabad
+ORD-1276,2026-01-06,Ahmed Raza,Power Bank,2,801.08,1602.16,Islamabad
+ORD-1089,2026-01-07,Bilal Hussain,Mouse Pad,5,385.25,1926.25,Karachi
+ORD-1204,2026-01-07,Ahmed Raza,Laptop Stand,4,34.29,137.16,Faisalabad
+ORD-1271,2026-01-07,Bilal Ahmed,Wireless Mouse,1,799.0,799.43,Faisalabad
+ORD-1465,2026-01-07,Ahmed Raza,Ssd 512Gb,3,551.11,1653.33,Multan
+ORD-1006,2026-01-08,Nida Fatima,Power Bank,1,968.98,968.98,Multan
+ORD-1057,2026-01-08,Ahmed Raza,Wireless Mouse,3,720.13,2160.39,Faisalabad
+ORD-1233,2026-01-08,Nida Fatima,Usb-C Cable,2,697.2,1394.4,Karachi
+ORD-1383,2026-01-08,Maryam Iqbal,Monitor 27 Inch,4,1070.13,4280.52,Karachi
+ORD-1398,2026-01-08,Omar Farooq,Monitor 27 Inch,1,187.27,187.27,Islamabad
+ORD-1406,2026-01-08,Ali Ahmad,Keyboard,3,684.0,2053.38,Rawalpindi
+ORD-1463,2026-01-08,Omar Farooq,Laptop Stand,3,1067.25,3201.75,Islamabad
+ORD-1208,2026-01-09,Fatima Noor,Usb-C Cable,1,738.23,738.23,Faisalabad
+ORD-1214,2026-01-09,Ayesha Khan,Headphones,4,880.0,3520.0,Lahore
+ORD-1301,2026-01-09,Maryam Iqbal,Headphones,2,1039.97,2079.94,Multan
+ORD-1308,2026-01-09,Bilal Ahmed,Power Bank,3,590.75,1772.25,Unknown
+ORD-1400,2026-01-09,Danish Ali,Monitor 27 Inch,5,91.94,459.7,Islamabad
+ORD-1418,2026-01-09,Hassan Raza,Ssd 512Gb,5,525.91,2629.55,Multan
+ORD-1021,2026-01-10,Fatima Noor,Ssd 512Gb,5,1198.17,5990.85,Islamabad
+ORD-1207,2026-01-10,Nida Fatima,Monitor 27 Inch,1,880.95,880.95,Karachi
+ORD-1366,2026-01-10,Fatima Noor,Keyboard,5,130.0,650.45,Rawalpindi
+ORD-1440,2026-01-10,Zara Khan,Laptop Stand,3,936.03,2808.09,Lahore
+ORD-1446,2026-01-10,Omar Farooq,Laptop Stand,2,594.34,1188.68,Karachi
+ORD-1462,2026-01-10,Bilal Ahmed,Power Bank,3,644.14,1932.42,Rawalpindi
+ORD-1055,2026-01-11,Bilal Ahmed,Power Bank,2,669.11,1338.22,Faisalabad
+ORD-1058,2026-01-11,Fatima Noor,Power Bank,4,885.0,3541.68,Rawalpindi
+ORD-1102,2026-01-11,Maryam Iqbal,Ssd 512Gb,2,61.0,122.76,Rawalpindi
+ORD-1119,2026-01-11,Usman Ali,Webcam Hd,1,525.27,525.27,Lahore
+ORD-1172,2026-01-11,Usman Ali,Wireless Mouse,4,558.91,2235.64,Multan
+ORD-1176,2026-01-11,Hassan Raza,Power Bank,3,78.63,235.89,Rawalpindi
+ORD-1186,2026-01-11,Ali Ahmad,Power Bank,2,794.26,1588.52,Multan
+ORD-1213,2026-01-11,Maryam Iqbal,Keyboard,5,745.02,3725.1,Karachi
+ORD-1223,2026-01-11,Omar Farooq,Laptop Stand,5,173.21,866.05,Faisalabad
+ORD-1365,2026-01-11,Danish Ali,Webcam Hd,1,443.0,442.7,Multan
+ORD-1375,2026-01-11,Sana Malik,Usb-C Cable,1,664.56,664.56,Karachi
+ORD-1378,2026-01-11,Danish Ali,Monitor 27 Inch,1,303.0,303.01,Lahore
+ORD-1460,2026-01-11,Hassan Raza,Monitor 27 Inch,1,836.39,836.39,Karachi
+ORD-1003,2026-01-12,Bilal Ahmed,Mouse Pad,3,1019.0,3057.84,Rawalpindi
+ORD-1129,2026-01-12,Omar Farooq,Power Bank,2,716.0,1432.0,Islamabad
+ORD-1267,2026-01-12,Sana Malik,Laptop Stand,4,765.68,3062.72,Lahore
+ORD-1334,2026-01-12,Hassan Raza,Keyboard,3,105.09,315.27,Rawalpindi
+ORD-1437,2026-01-12,Hira Shah,Usb-C Cable,2,460.51,921.02,Lahore
+ORD-1450,2026-01-12,Hira Shah,Mouse Pad,5,1065.99,5329.95,Multan
+ORD-1206,2026-01-13,Ahmed Raza,Laptop Stand,4,107.0,429.44,Lahore
+ORD-1243,2026-01-13,Maryam Iqbal,Monitor 27 Inch,2,500.0,1000.0,Multan
+ORD-1251,2026-01-13,Zara Khan,Mouse Pad,5,1057.96,5289.8,Rawalpindi
+ORD-1342,2026-01-13,Unknown,Monitor 27 Inch,3,322.83,968.49,Islamabad
+ORD-1447,2026-01-13,Ayesha Khan,Mouse Pad,2,1004.89,2009.78,Rawalpindi
+ORD-1010,2026-01-14,Hassan Raza,Usb-C Cable,3,1012.38,3037.14,Rawalpindi
+ORD-1367,2026-01-14,Nida Fatima,Wireless Mouse,5,439.19,2195.95,Karachi
+ORD-1008,2026-01-15,Sana Malik,Power Bank,2,953.61,1907.22,Faisalabad
+ORD-1011,2026-01-15,Ayesha Khan,Wireless Mouse,3,298.75,896.25,Multan
+ORD-1083,2026-01-15,Omar Farooq,Webcam Hd,1,171.19,171.19,Lahore
+ORD-1096,2026-01-15,Bilal Ahmed,Webcam Hd,3,218.67,656.01,Lahore
+ORD-1149,2026-01-15,Hassan Raza,Monitor 27 Inch,4,783.0,3132.88,Rawalpindi
+ORD-1159,2026-01-15,Fatima Noor,Keyboard,4,743.68,2974.72,Lahore
+ORD-1245,2026-01-15,Zara Khan,Ssd 512Gb,4,573.07,2292.28,Faisalabad
+ORD-1273,2026-01-15,Maryam Iqbal,Keyboard,4,250.4,1001.6,Islamabad
+ORD-1455,2026-01-15,Nida Fatima,Keyboard,1,295.99,295.99,Lahore
+ORD-1035,2026-01-16,Hira Shah,Mouse Pad,4,806.08,3224.32,Rawalpindi
+ORD-1063,2026-01-16,Usman Ali,Headphones,2,606.0,1211.14,Faisalabad
+ORD-1110,2026-01-16,Sana Malik,Wireless Mouse,2,338.26,676.52,Karachi
+ORD-1209,2026-01-16,Fatima Noor,Monitor 27 Inch,4,431.57,1726.28,Multan
+ORD-1215,2026-01-16,Maryam Iqbal,Ssd 512Gb,2,846.28,1692.56,Multan
+ORD-1216,2026-01-16,Usman Ali,Power Bank,1,411.99,411.99,Multan
+ORD-1219,2026-01-16,Sana Malik,Wireless Mouse,1,227.52,227.52,Faisalabad
+ORD-1303,2026-01-16,Danish Ali,Wireless Mouse,5,90.0,449.7,Islamabad
+ORD-1386,2026-01-16,Sana Malik,Headphones,2,876.59,1753.18,Islamabad
+ORD-1403,2026-01-16,Hassan Raza,Webcam Hd,2,962.48,1924.96,Rawalpindi
+ORD-1067,2026-01-17,Unknown,Ssd 512Gb,5,408.41,2042.05,Faisalabad
+ORD-1430,2026-01-17,Bilal Hussain,Power Bank,3,1031.56,3094.68,Multan
+ORD-1106,2026-01-18,Danish Ali,Ssd 512Gb,3,1015.65,3046.95,Lahore
+ORD-1137,2026-01-18,Bilal Hussain,Webcam Hd,4,630.41,2521.64,Rawalpindi
+ORD-1145,2026-01-18,Fatima Noor,Keyboard,5,298.55,1492.75,Lahore
+ORD-1199,2026-01-18,Omar Farooq,Ssd 512Gb,2,969.0,1938.9,Karachi
+ORD-1350,2026-01-18,Unknown,Mouse Pad,4,649.0,2596.36,Unknown
+ORD-1444,2026-01-18,Ayesha Khan,Ssd 512Gb,1,868.0,867.89,Multan
+ORD-1071,2026-01-19,Ahmed Raza,Monitor 27 Inch,3,560.0,1678.77,Multan
+ORD-1098,2026-01-19,Hira Shah,Wireless Mouse,2,318.32,636.64,Karachi
+ORD-1144,2026-01-19,Zara Khan,Monitor 27 Inch,3,1147.05,3441.15,Multan
+ORD-1175,2026-01-19,Omar Farooq,Headphones,4,1115.72,4462.88,Multan
+ORD-1226,2026-01-19,Unknown,Monitor 27 Inch,2,1162.55,2325.1,Karachi
+ORD-1344,2026-01-19,Nida Fatima,Wireless Mouse,3,515.0,1544.55,Lahore
+ORD-1025,2026-01-20,Usman Ali,Webcam Hd,3,705.27,2115.81,Lahore
+ORD-1122,2026-01-20,Maryam Iqbal,Webcam Hd,3,455.84,1367.52,Faisalabad
+ORD-1218,2026-01-20,Sana Malik,Keyboard,1,670.14,670.14,Islamabad
+ORD-1221,2026-01-20,Unknown,Laptop Stand,4,43.33,173.32,Islamabad
+ORD-1244,2026-01-20,Omar Farooq,Mouse Pad,1,521.71,521.71,Karachi
+ORD-1363,2026-01-20,Zara Khan,Wireless Mouse,3,500.62,1501.86,Lahore
+ORD-1371,2026-01-20,Usman Ali,Wireless Mouse,3,1069.21,3207.63,Rawalpindi
+ORD-1374,2026-01-20,Ahmed Raza,Power Bank,2,197.0,393.08,Rawalpindi
+ORD-1412,2026-01-20,Fatima Noor,Ssd 512Gb,1,33.0,33.08,Islamabad
+ORD-1467,2026-01-20,Zara Khan,Ssd 512Gb,5,1143.24,5716.2,Karachi
+ORD-1019,2026-01-21,Zara Khan,Keyboard,5,109.93,549.65,Faisalabad
+ORD-1036,2026-01-21,Usman Ali,Ssd 512Gb,4,548.33,2193.32,Faisalabad
+ORD-1128,2026-01-21,Danish Ali,Wireless Mouse,2,425.04,850.08,Islamabad
+ORD-1242,2026-01-21,Unknown,Mouse Pad,5,1131.07,5655.35,Multan
+ORD-1281,2026-01-21,Ahmed Raza,Webcam Hd,4,1024.47,4097.88,Karachi
+ORD-1229,2026-01-22,Zara Khan,Headphones,4,988.7,3954.8,Karachi
+ORD-1380,2026-01-22,Zara Khan,Laptop Stand,2,950.0,1900.38,Lahore
+ORD-1413,2026-01-22,Ali Ahmad,Mouse Pad,5,1072.31,5361.55,Multan
+ORD-1470,2026-01-22,Danish Ali,Usb-C Cable,2,858.5,1717.0,Karachi
+ORD-1046,2026-01-23,Ahmed Raza,Headphones,3,744.86,2234.58,Multan
+ORD-1059,2026-01-23,Zara Khan,Mouse Pad,4,1100.55,4402.2,Lahore
+ORD-1124,2026-01-23,Hassan Raza,Webcam Hd,4,1196.76,4787.04,Multan
+ORD-1238,2026-01-23,Ali Ahmad,Usb-C Cable,5,479.05,2395.25,Rawalpindi
+ORD-1255,2026-01-23,Nida Fatima,Webcam Hd,2,1006.82,2013.64,Multan
+ORD-1321,2026-01-23,Hira Shah,Wireless Mouse,5,725.78,3628.9,Lahore
+ORD-1372,2026-01-23,Ali Ahmad,Power Bank,5,986.13,4930.65,Faisalabad
+ORD-1451,2026-01-23,Ayesha Khan,Monitor 27 Inch,1,722.0,721.58,Islamabad
+ORD-1453,2026-01-23,Usman Ali,Webcam Hd,1,79.02,79.02,Rawalpindi
+ORD-1454,2026-01-23,Bilal Ahmed,Mouse Pad,1,589.8,589.8,Rawalpindi
+ORD-1107,2026-01-24,Sana Malik,Webcam Hd,5,973.72,4868.6,Multan
+ORD-1266,2026-01-24,Ali Ahmad,Laptop Stand,4,409.17,1636.68,Faisalabad
+ORD-1362,2026-01-24,Bilal Ahmed,Wireless Mouse,5,1030.34,5151.7,Multan
+ORD-1286,2026-01-25,Hassan Raza,Wireless Mouse,4,270.47,1081.88,Faisalabad
+ORD-1360,2026-01-25,Ahmed Raza,Mouse Pad,4,439.43,1757.72,Rawalpindi
+ORD-1387,2026-01-25,Omar Farooq,Power Bank,2,46.04,92.08,Rawalpindi
+ORD-1117,2026-01-26,Unknown,Mouse Pad,3,1121.04,3363.12,Islamabad
+ORD-1335,2026-01-26,Fatima Noor,Power Bank,2,1049.2,2098.4,Islamabad
+ORD-1385,2026-01-26,Sana Malik,Usb-C Cable,3,830.91,2492.73,Multan
+ORD-1184,2026-01-27,Hira Shah,Headphones,3,1000.07,3000.21,Multan
+ORD-1290,2026-01-27,Bilal Ahmed,Usb-C Cable,3,828.63,2485.89,Rawalpindi
+ORD-1421,2026-01-27,Nida Fatima,Headphones,3,370.19,1110.57,Multan
+ORD-1041,2026-01-28,Danish Ali,Headphones,3,917.06,2751.18,Islamabad
+ORD-1369,2026-01-28,Ahmed Raza,Headphones,5,1112.48,5562.4,Lahore
+ORD-1458,2026-01-28,Fatima Noor,Keyboard,4,346.0,1383.28,Islamabad
+ORD-1042,2026-01-29,Ali Ahmad,Power Bank,1,908.77,908.77,Karachi
+ORD-1049,2026-01-29,Maryam Iqbal,Webcam Hd,2,378.0,755.7,Faisalabad
+ORD-1090,2026-01-29,Zara Khan,Ssd 512Gb,5,1169.84,5849.2,Lahore
+ORD-1158,2026-01-29,Sana Malik,Ssd 512Gb,1,1174.51,1174.51,Faisalabad
+ORD-1196,2026-01-29,Omar Farooq,Mouse Pad,3,281.44,844.32,Rawalpindi
+ORD-1232,2026-01-29,Hira Shah,Power Bank,3,84.43,253.29,Karachi
+ORD-1284,2026-01-29,Zara Khan,Webcam Hd,3,679.0,2037.0,Multan
+ORD-1293,2026-01-29,Bilal Ahmed,Monitor 27 Inch,5,475.83,2379.15,Multan
+ORD-1337,2026-01-29,Maryam Iqbal,Laptop Stand,2,79.17,158.34,Rawalpindi
+ORD-1050,2026-01-30,Bilal Ahmed,Usb-C Cable,2,389.0,777.84,Karachi
+ORD-1066,2026-01-30,Hira Shah,Headphones,4,67.0,266.88,Faisalabad
+ORD-1087,2026-01-30,Hassan Raza,Monitor 27 Inch,4,488.0,1950.0,Islamabad
+ORD-1095,2026-01-30,Ali Ahmad,Mouse Pad,3,100.41,301.23,Lahore
+ORD-1108,2026-01-30,Fatima Noor,Webcam Hd,3,1159.23,3477.69,Multan
+ORD-1270,2026-01-30,Ayesha Khan,Webcam Hd,2,265.26,530.52,Multan
+ORD-1017,2026-01-31,Bilal Hussain,Headphones,4,585.41,2341.64,Lahore
+ORD-1033,2026-01-31,Ahmed Raza,Power Bank,2,970.78,1941.56,Lahore
+ORD-1113,2026-01-31,Omar Farooq,Ssd 512Gb,5,556.68,2783.4,Unknown
+ORD-1261,2026-01-31,Ali Ahmad,Mouse Pad,5,493.86,2469.3,Islamabad
+ORD-1397,2026-01-31,Ali Ahmad,Keyboard,4,552.68,2210.72,Rawalpindi
+ORD-1027,2026-02-01,Fatima Noor,Mouse Pad,1,468.31,468.31,Islamabad
+ORD-1133,2026-02-01,Fatima Noor,Usb-C Cable,2,978.97,1957.94,Faisalabad
+ORD-1168,2026-02-01,Zara Khan,Mouse Pad,3,319.93,959.79,Faisalabad
+ORD-1180,2026-02-01,Usman Ali,Mouse Pad,2,827.1,1654.2,Karachi
+ORD-1183,2026-02-01,Omar Farooq,Keyboard,3,982.55,2947.65,Rawalpindi
+ORD-1309,2026-02-01,Hassan Raza,Mouse Pad,4,342.87,1371.48,Faisalabad
+ORD-1358,2026-02-01,Bilal Hussain,Webcam Hd,1,704.0,703.58,Lahore
+ORD-1181,2026-02-02,Usman Ali,Laptop Stand,4,718.66,2874.64,Faisalabad
+ORD-1332,2026-02-02,Ahmed Raza,Keyboard,5,311.42,1557.1,Islamabad
+ORD-1007,2026-02-03,Omar Farooq,Headphones,5,654.0,3268.45,Islamabad
+ORD-1029,2026-02-03,Omar Farooq,Ssd 512Gb,5,530.0,2649.8,Unknown
+ORD-1068,2026-02-03,Danish Ali,Ssd 512Gb,4,785.06,3140.24,Faisalabad
+ORD-1135,2026-02-03,Fatima Noor,Webcam Hd,4,448.64,1794.56,Rawalpindi
+ORD-1192,2026-02-03,Omar Farooq,Headphones,4,640.0,2561.36,Rawalpindi
+ORD-1228,2026-02-03,Ahmed Raza,Usb-C Cable,1,40.83,40.83,Lahore
+ORD-1429,2026-02-03,Usman Ali,Power Bank,4,700.0,2800.4,Lahore
+ORD-1340,2026-02-04,Bilal Ahmed,Usb-C Cable,5,527.18,2635.9,Faisalabad
+ORD-1389,2026-02-04,Ayesha Khan,Usb-C Cable,2,894.7,1789.4,Faisalabad
+ORD-1024,2026-02-05,Bilal Ahmed,Mouse Pad,3,929.0,2786.34,Rawalpindi
+ORD-1048,2026-02-05,Ahmed Raza,Ssd 512Gb,5,1138.45,5692.25,Karachi
+ORD-1081,2026-02-05,Fatima Noor,Power Bank,1,1139.58,1139.58,Lahore
+ORD-1205,2026-02-05,Bilal Hussain,Laptop Stand,3,311.71,935.13,Faisalabad
+ORD-1331,2026-02-05,Bilal Hussain,Headphones,2,553.89,1107.78,Rawalpindi
+ORD-1407,2026-02-05,Omar Farooq,Power Bank,3,1181.0,3541.77,Faisalabad
+ORD-1427,2026-02-05,Zara Khan,Wireless Mouse,1,635.0,635.18,Multan
+ORD-1438,2026-02-05,Ali Ahmad,Headphones,3,319.94,959.82,Faisalabad
+ORD-1166,2026-02-06,Nida Fatima,Mouse Pad,5,783.73,3918.65,Faisalabad
+ORD-1171,2026-02-06,Ayesha Khan,Ssd 512Gb,4,970.31,3881.24,Karachi
+ORD-1257,2026-02-06,Danish Ali,Keyboard,1,208.0,208.05,Multan
+ORD-1263,2026-02-07,Nida Fatima,Usb-C Cable,2,893.0,1785.98,Multan
+ORD-1269,2026-02-07,Bilal Hussain,Webcam Hd,5,721.7,3608.5,Faisalabad
+ORD-1312,2026-02-07,Zara Khan,Keyboard,5,619.84,3099.2,Rawalpindi
+ORD-1163,2026-02-08,Sana Malik,Ssd 512Gb,2,969.84,1939.68,Rawalpindi
+ORD-1193,2026-02-08,Usman Ali,Wireless Mouse,5,115.43,577.15,Karachi
+ORD-1370,2026-02-08,Bilal Ahmed,Monitor 27 Inch,2,269.57,539.14,Rawalpindi
+ORD-1392,2026-02-08,Ali Ahmad,Ssd 512Gb,3,561.7,1685.1,Karachi
+ORD-1091,2026-02-09,Sana Malik,Wireless Mouse,3,22.24,66.72,Karachi
+ORD-1097,2026-02-09,Ayesha Khan,Ssd 512Gb,2,409.69,819.38,Rawalpindi
+ORD-1152,2026-02-09,Ahmed Raza,Usb-C Cable,3,450.54,1351.62,Faisalabad
+ORD-1037,2026-02-10,Bilal Ahmed,Keyboard,1,178.97,178.97,Lahore
+ORD-1294,2026-02-10,Hira Shah,Mouse Pad,1,30.36,30.36,Karachi
+ORD-1031,2026-02-11,Sana Malik,Usb-C Cable,3,671.98,2015.94,Rawalpindi
+ORD-1086,2026-02-11,Ayesha Khan,Wireless Mouse,5,643.71,3218.55,Multan
+ORD-1161,2026-02-11,Usman Ali,Laptop Stand,2,1183.05,2366.1,Rawalpindi
+ORD-1014,2026-02-12,Bilal Ahmed,Power Bank,2,345.0,690.0,Rawalpindi
+ORD-1028,2026-02-12,Sana Malik,Ssd 512Gb,1,1160.76,1160.76,Islamabad
+ORD-1165,2026-02-12,Bilal Ahmed,Mouse Pad,1,265.99,265.99,Karachi
+ORD-1317,2026-02-12,Zara Khan,Headphones,4,815.15,3260.6,Lahore
+ORD-1320,2026-02-13,Ayesha Khan,Laptop Stand,5,714.86,3574.3,Karachi
+ORD-1339,2026-02-13,Hassan Raza,Headphones,4,517.37,2069.48,Islamabad
+ORD-1405,2026-02-13,Ahmed Raza,Usb-C Cable,4,1100.65,4402.6,Multan
+ORD-1198,2026-02-14,Fatima Noor,Keyboard,1,535.3,535.3,Multan
+ORD-1306,2026-02-14,Usman Ali,Keyboard,5,183.81,919.05,Lahore
+ORD-1326,2026-02-14,Bilal Ahmed,Keyboard,4,886.9,3547.6,Faisalabad
+ORD-1070,2026-02-15,Bilal Hussain,Usb-C Cable,2,304.37,608.74,Karachi
+ORD-1074,2026-02-15,Zara Khan,Usb-C Cable,2,751.0,1501.52,Multan
+ORD-1100,2026-02-15,Usman Ali,Wireless Mouse,3,562.16,1686.48,Multan
+ORD-1114,2026-02-15,Hassan Raza,Wireless Mouse,4,237.0,948.0,Rawalpindi
+ORD-1116,2026-02-15,Ahmed Raza,Usb-C Cable,2,999.0,1998.0,Karachi
+ORD-1225,2026-02-15,Ayesha Khan,Usb-C Cable,2,550.52,1101.04,Multan
+ORD-1330,2026-02-15,Ayesha Khan,Wireless Mouse,4,709.5,2838.0,Rawalpindi
+ORD-1004,2026-02-16,Ayesha Khan,Keyboard,1,69.3,69.3,Lahore
+ORD-1075,2026-02-16,Fatima Noor,Usb-C Cable,1,1092.91,1092.91,Rawalpindi
+ORD-1077,2026-02-16,Zara Khan,Monitor 27 Inch,4,31.49,125.96,Rawalpindi
+ORD-1314,2026-02-16,Ayesha Khan,Ssd 512Gb,4,1059.64,4238.56,Multan
+ORD-1111,2026-02-17,Danish Ali,Webcam Hd,1,459.27,459.27,Karachi
+ORD-1164,2026-02-17,Ali Ahmad,Wireless Mouse,2,76.07,152.14,Karachi
+ORD-1167,2026-02-17,Usman Ali,Ssd 512Gb,1,681.59,681.59,Rawalpindi
+ORD-1202,2026-02-17,Bilal Ahmed,Wireless Mouse,4,402.84,1611.36,Multan
+ORD-1217,2026-02-17,Bilal Ahmed,Ssd 512Gb,1,1075.0,1074.71,Lahore
+ORD-1220,2026-02-17,Hassan Raza,Power Bank,5,945.0,4723.2,Faisalabad
+ORD-1351,2026-02-17,Zara Khan,Headphones,5,532.97,2664.85,Faisalabad
+ORD-1140,2026-02-18,Ali Ahmad,Mouse Pad,2,52.41,104.82,Islamabad
+ORD-1178,2026-02-18,Ali Ahmad,Monitor 27 Inch,2,891.49,1782.98,Faisalabad
+ORD-1185,2026-02-18,Unknown,Headphones,5,582.89,2914.45,Rawalpindi
+ORD-1395,2026-02-18,Zara Khan,Usb-C Cable,1,925.39,925.39,Karachi
+ORD-1038,2026-02-19,Unknown,Headphones,5,1136.08,5680.4,Faisalabad
+ORD-1247,2026-02-19,Omar Farooq,Keyboard,4,1159.0,4636.0,Faisalabad
+ORD-1044,2026-02-20,Ayesha Khan,Monitor 27 Inch,2,105.0,210.12,Multan
+ORD-1203,2026-02-20,Usman Ali,Webcam Hd,4,992.44,3969.76,Rawalpindi
+ORD-1224,2026-02-20,Fatima Noor,Usb-C Cable,3,391.9,1175.7,Rawalpindi
+ORD-1034,2026-02-21,Hira Shah,Headphones,1,1072.8,1072.8,Karachi
+ORD-1311,2026-02-21,Maryam Iqbal,Mouse Pad,2,1089.0,2177.94,Multan
+ORD-1390,2026-02-21,Omar Farooq,Power Bank,5,886.37,4431.85,Rawalpindi
+ORD-1417,2026-02-21,Maryam Iqbal,Mouse Pad,1,401.0,401.16,Faisalabad
+ORD-1422,2026-02-21,Ali Ahmad,Ssd 512Gb,3,88.96,266.88,Islamabad
+ORD-1060,2026-02-22,Ali Ahmad,Mouse Pad,3,800.16,2400.48,Lahore
+ORD-1254,2026-02-22,Bilal Hussain,Wireless Mouse,5,1042.62,5213.1,Islamabad
+ORD-1020,2026-02-23,Bilal Ahmed,Webcam Hd,5,634.5,3172.5,Karachi
+ORD-1039,2026-02-23,Unknown,Headphones,5,962.84,4814.2,Faisalabad
+ORD-1157,2026-02-23,Ayesha Khan,Ssd 512Gb,4,546.52,2186.08,Karachi
+ORD-1264,2026-02-23,Ayesha Khan,Mouse Pad,3,455.0,1366.32,Lahore
+ORD-1373,2026-02-23,Omar Farooq,Laptop Stand,1,1045.7,1045.7,Multan
+ORD-1045,2026-02-24,Danish Ali,Mouse Pad,1,614.56,614.56,Lahore
+ORD-1072,2026-02-24,Ahmed Raza,Wireless Mouse,4,1016.69,4066.76,Karachi
+ORD-1093,2026-02-24,Hassan Raza,Headphones,4,505.81,2023.24,Lahore
+ORD-1150,2026-02-24,Unknown,Webcam Hd,1,489.99,489.99,Karachi
+ORD-1156,2026-02-24,Nida Fatima,Mouse Pad,1,656.28,656.28,Lahore
+ORD-1194,2026-02-24,Maryam Iqbal,Usb-C Cable,5,837.0,4183.6,Faisalabad
+ORD-1325,2026-02-24,Sana Malik,Ssd 512Gb,5,342.0,1707.7,Rawalpindi
+ORD-1015,2026-02-25,Zara Khan,Wireless Mouse,4,568.0,2273.68,Lahore
+ORD-1088,2026-02-25,Maryam Iqbal,Ssd 512Gb,3,977.0,2930.85,Islamabad
+ORD-1022,2026-02-26,Ali Ahmad,Ssd 512Gb,3,739.84,2219.52,Islamabad
+ORD-1189,2026-02-26,Ayesha Khan,Laptop Stand,4,392.91,1571.64,Islamabad
+ORD-1304,2026-02-26,Sana Malik,Ssd 512Gb,1,576.68,576.68,Islamabad
+ORD-1409,2026-02-26,Ahmed Raza,Ssd 512Gb,4,1087.37,4349.48,Islamabad
+ORD-1469,2026-02-26,Usman Ali,Keyboard,5,171.37,856.85,Faisalabad
+ORD-1016,2026-02-27,Ahmed Raza,Ssd 512Gb,2,345.08,690.16,Lahore
+ORD-1047,2026-02-27,Ahmed Raza,Webcam Hd,4,690.0,2761.08,Karachi
+ORD-1054,2026-02-27,Omar Farooq,Laptop Stand,3,1034.3,3102.9,Rawalpindi
+ORD-1177,2026-02-27,Omar Farooq,Headphones,3,670.35,2011.05,Lahore
+ORD-1319,2026-02-27,Omar Farooq,Usb-C Cable,4,1042.75,4171.0,Rawalpindi
+ORD-1396,2026-02-27,Omar Farooq,Monitor 27 Inch,2,154.3,308.6,Lahore
+ORD-1436,2026-02-27,Ali Ahmad,Power Bank,3,313.5,940.5,Multan
+ORD-1092,2026-02-28,Omar Farooq,Wireless Mouse,3,384.29,1152.87,Lahore
+ORD-1259,2026-02-28,Omar Farooq,Wireless Mouse,4,373.04,1492.16,Lahore
+ORD-1277,2026-02-28,Nida Fatima,Usb-C Cable,4,832.53,3330.12,Lahore
+ORD-1287,2026-02-28,Ali Ahmad,Ssd 512Gb,5,174.54,872.7,Faisalabad
+ORD-1356,2026-02-28,Zara Khan,Monitor 27 Inch,1,632.55,632.55,Islamabad
+ORD-1391,2026-02-28,Bilal Ahmed,Laptop Stand,1,1055.17,1055.17,Rawalpindi
+ORD-1456,2026-02-28,Usman Ali,Keyboard,3,177.0,529.92,Islamabad
+ORD-1457,2026-02-28,Hira Shah,Power Bank,3,275.53,826.59,Karachi
+ORD-1040,2026-03-01,Zara Khan,Laptop Stand,5,647.94,3239.7,Lahore
+ORD-1227,2026-03-01,Fatima Noor,Usb-C Cable,2,158.92,317.84,Karachi
+ORD-1246,2026-03-01,Ayesha Khan,Wireless Mouse,3,683.63,2050.89,Multan
+ORD-1361,2026-03-01,Bilal Hussain,Mouse Pad,5,1099.0,5493.25,Islamabad
+ORD-1012,2026-03-02,Fatima Noor,Ssd 512Gb,2,329.09,658.18,Multan
+ORD-1084,2026-03-02,Omar Farooq,Laptop Stand,3,623.19,1869.57,Multan
+ORD-1112,2026-03-02,Bilal Hussain,Ssd 512Gb,1,1088.44,1088.44,Multan
+ORD-1141,2026-03-02,Zara Khan,Mouse Pad,1,851.34,851.34,Rawalpindi
+ORD-1173,2026-03-02,Zara Khan,Webcam Hd,1,847.87,847.87,Rawalpindi
+ORD-1212,2026-03-02,Ali Ahmad,Laptop Stand,1,34.78,34.78,Faisalabad
+ORD-1348,2026-03-02,Bilal Ahmed,Ssd 512Gb,5,1122.81,5614.05,Karachi
+ORD-1076,2026-03-03,Ayesha Khan,Usb-C Cable,3,899.67,2699.01,Karachi
+ORD-1241,2026-03-03,Unknown,Laptop Stand,5,786.0,3932.0,Islamabad
+ORD-1274,2026-03-03,Omar Farooq,Mouse Pad,1,30.11,30.11,Karachi
+ORD-1388,2026-03-03,Sana Malik,Mouse Pad,5,570.0,2852.4,Unknown
+ORD-1052,2026-03-04,Bilal Hussain,Laptop Stand,1,695.27,695.27,Islamabad
+ORD-1143,2026-03-04,Usman Ali,Wireless Mouse,3,679.18,2037.54,Rawalpindi
+ORD-1237,2026-03-04,Omar Farooq,Webcam Hd,2,853.0,1706.02,Karachi
+ORD-1253,2026-03-04,Bilal Ahmed,Mouse Pad,1,1167.41,1167.41,Islamabad
+ORD-1279,2026-03-04,Ali Ahmad,Ssd 512Gb,4,537.22,2148.88,Multan
+ORD-1419,2026-03-04,Bilal Hussain,Monitor 27 Inch,5,564.0,2817.75,Faisalabad
+ORD-1431,2026-03-04,Bilal Hussain,Power Bank,5,1036.49,5182.45,Karachi
+ORD-1079,2026-03-05,Zara Khan,Ssd 512Gb,2,1066.4,2132.8,Faisalabad
+ORD-1162,2026-03-05,Hassan Raza,Headphones,3,1131.0,3392.34,Faisalabad
+ORD-1211,2026-03-05,Nida Fatima,Webcam Hd,1,641.02,641.02,Karachi
+ORD-1239,2026-03-05,Nida Fatima,Wireless Mouse,1,297.03,297.03,Multan
+ORD-1354,2026-03-05,Ahmed Raza,Laptop Stand,4,384.22,1536.88,Islamabad
+ORD-1420,2026-03-05,Nida Fatima,Laptop Stand,1,122.28,122.28,Karachi
+ORD-1138,2026-03-06,Ali Ahmad,Webcam Hd,5,595.0,2977.35,Islamabad
+ORD-1265,2026-03-06,Bilal Hussain,Usb-C Cable,4,642.86,2571.44,Karachi
+ORD-1426,2026-03-06,Ahmed Raza,Webcam Hd,5,697.98,3489.9,Lahore
+ORD-1300,2026-03-07,Hassan Raza,Ssd 512Gb,4,591.86,2367.44,Unknown
+ORD-1441,2026-03-07,Hira Shah,Wireless Mouse,4,581.6,2326.4,Rawalpindi
+ORD-1013,2026-03-08,Unknown,Power Bank,2,281.27,562.54,Karachi
+ORD-1123,2026-03-08,Fatima Noor,Power Bank,5,154.55,772.75,Islamabad
+ORD-1248,2026-03-08,Bilal Hussain,Keyboard,5,189.73,948.65,Karachi
+ORD-1280,2026-03-08,Hassan Raza,Headphones,5,128.0,639.3,Karachi
+ORD-1338,2026-03-08,Hassan Raza,Webcam Hd,1,29.01,29.01,Rawalpindi
+ORD-1341,2026-03-08,Omar Farooq,Laptop Stand,3,945.62,2836.86,Faisalabad
+ORD-1411,2026-03-08,Fatima Noor,Webcam Hd,3,41.64,124.92,Karachi
+ORD-1109,2026-03-09,Usman Ali,Laptop Stand,2,983.02,1966.04,Multan
+ORD-1235,2026-03-09,Bilal Ahmed,Usb-C Cable,3,1102.71,3308.13,Islamabad
+ORD-1236,2026-03-09,Ayesha Khan,Webcam Hd,1,457.71,457.71,Islamabad
+ORD-1268,2026-03-09,Hassan Raza,Monitor 27 Inch,1,757.62,757.62,Karachi
+ORD-1376,2026-03-09,Omar Farooq,Wireless Mouse,1,330.51,330.51,Lahore
+ORD-1030,2026-03-10,Hassan Raza,Power Bank,2,446.6,893.2,Islamabad
+ORD-1147,2026-03-10,Bilal Hussain,Laptop Stand,1,1097.18,1097.18,Faisalabad
+ORD-1153,2026-03-10,Hira Shah,Wireless Mouse,2,918.0,1835.6,Rawalpindi
+ORD-1433,2026-03-10,Ali Ahmad,Monitor 27 Inch,4,577.39,2309.56,Faisalabad
+ORD-1434,2026-03-10,Usman Ali,Monitor 27 Inch,4,738.0,2953.72,Lahore
+ORD-1442,2026-03-10,Zara Khan,Wireless Mouse,3,410.13,1230.39,Islamabad
+ORD-1197,2026-03-11,Sana Malik,Wireless Mouse,1,915.6,915.6,Multan
+ORD-1355,2026-03-11,Ali Ahmad,Wireless Mouse,2,1076.4,2152.8,Multan
+ORD-1023,2026-03-12,Zara Khan,Monitor 27 Inch,3,732.0,2195.16,Rawalpindi
+ORD-1082,2026-03-12,Hira Shah,Power Bank,2,978.47,1956.94,Lahore
+ORD-1101,2026-03-12,Hassan Raza,Power Bank,1,547.93,547.93,Faisalabad
+ORD-1154,2026-03-12,Maryam Iqbal,Mouse Pad,2,693.65,1387.3,Lahore
+ORD-1283,2026-03-12,Nida Fatima,Ssd 512Gb,1,953.26,953.26,Rawalpindi
+ORD-1307,2026-03-12,Fatima Noor,Power Bank,5,102.0,508.4,Faisalabad
+ORD-1327,2026-03-12,Ayesha Khan,Usb-C Cable,1,205.47,205.47,Faisalabad
+ORD-1002,2026-03-13,Danish Ali,Laptop Stand,5,512.13,2560.65,Karachi
+ORD-1018,2026-03-13,Omar Farooq,Ssd 512Gb,4,198.43,793.72,Lahore
+ORD-1179,2026-03-13,Unknown,Webcam Hd,1,46.12,46.12,Faisalabad
+ORD-1313,2026-03-14,Fatima Noor,Mouse Pad,2,887.06,1774.12,Karachi
+ORD-1262,2026-03-15,Hira Shah,Mouse Pad,3,875.96,2627.88,Multan
+ORD-1297,2026-03-15,Bilal Hussain,Ssd 512Gb,1,944.08,944.08,Lahore
+ORD-1318,2026-03-15,Unknown,Power Bank,2,321.04,642.08,Multan
+ORD-1343,2026-03-15,Zara Khan,Ssd 512Gb,5,221.83,1109.15,Faisalabad
+ORD-1461,2026-03-15,Bilal Ahmed,Headphones,1,1172.06,1172.06,Karachi
+ORD-1032,2026-03-16,Ahmed Raza,Usb-C Cable,3,566.01,1698.03,Multan
+ORD-1151,2026-03-16,Zara Khan,Wireless Mouse,1,324.94,324.94,Faisalabad
+ORD-1288,2026-03-16,Hassan Raza,Ssd 512Gb,2,138.0,275.42,Faisalabad
+ORD-1296,2026-03-16,Bilal Hussain,Webcam Hd,1,407.0,406.72,Rawalpindi
+ORD-1393,2026-03-16,Bilal Hussain,Mouse Pad,5,175.34,876.7,Rawalpindi
+ORD-1191,2026-03-17,Hira Shah,Wireless Mouse,1,850.11,850.11,Rawalpindi
+ORD-1278,2026-03-17,Hassan Raza,Power Bank,5,818.9,4094.5,Lahore
+ORD-1414,2026-03-17,Bilal Ahmed,Ssd 512Gb,4,745.33,2981.32,Lahore
+ORD-1103,2026-03-18,Usman Ali,Monitor 27 Inch,3,93.11,279.33,Multan
+ORD-1368,2026-03-18,Danish Ali,Webcam Hd,3,1084.0,3253.32,Faisalabad
+ORD-1260,2026-03-19,Hassan Raza,Monitor 27 Inch,1,585.86,585.86,Islamabad
+ORD-1295,2026-03-19,Bilal Hussain,Usb-C Cable,2,363.6,727.2,Multan
+ORD-1080,2026-03-20,Fatima Noor,Webcam Hd,3,53.77,161.31,Lahore
+ORD-1126,2026-03-20,Maryam Iqbal,Headphones,1,381.51,381.51,Faisalabad
+ORD-1230,2026-03-20,Ahmed Raza,Laptop Stand,2,782.02,1564.04,Lahore
+ORD-1336,2026-03-20,Hassan Raza,Mouse Pad,5,1150.22,5751.1,Rawalpindi
+ORD-1352,2026-03-20,Sana Malik,Keyboard,3,352.0,1057.02,Lahore
+ORD-1399,2026-03-20,Bilal Ahmed,Power Bank,5,693.0,3465.75,Islamabad
+ORD-1078,2026-03-21,Zara Khan,Mouse Pad,5,404.0,2018.45,Multan
+ORD-1136,2026-03-21,Hassan Raza,Ssd 512Gb,1,167.47,167.47,Islamabad
+ORD-1347,2026-03-21,Zara Khan,Usb-C Cable,4,381.6,1526.4,Karachi
+ORD-1353,2026-03-21,Bilal Hussain,Wireless Mouse,3,37.98,113.94,Islamabad
+ORD-1452,2026-03-21,Fatima Noor,Monitor 27 Inch,5,616.44,3082.2,Lahore
+ORD-1053,2026-03-22,Fatima Noor,Wireless Mouse,2,192.0,383.6,Rawalpindi
+ORD-1249,2026-03-22,Ayesha Khan,Wireless Mouse,5,320.6,1603.0,Faisalabad
+ORD-1359,2026-03-22,Bilal Hussain,Mouse Pad,3,779.0,2336.46,Karachi
+ORD-1401,2026-03-22,Bilal Ahmed,Monitor 27 Inch,1,588.0,588.14,Faisalabad
+ORD-1423,2026-03-22,Bilal Hussain,Mouse Pad,4,496.15,1984.6,Karachi
+ORD-1001,2026-03-23,Bilal Ahmed,Ssd 512Gb,3,305.2,915.6,Lahore
+ORD-1285,2026-03-23,Nida Fatima,Usb-C Cable,3,664.01,1992.03,Faisalabad
+ORD-1349,2026-03-23,Ayesha Khan,Mouse Pad,3,1092.07,3276.21,Islamabad
+ORD-1432,2026-03-23,Hira Shah,Wireless Mouse,5,885.22,4426.1,Lahore
+ORD-1130,2026-03-24,Zara Khan,Laptop Stand,3,786.59,2359.77,Faisalabad
+ORD-1275,2026-03-24,Danish Ali,Laptop Stand,3,327.99,983.97,Islamabad
+ORD-1305,2026-03-24,Ali Ahmad,Power Bank,1,671.0,670.93,Rawalpindi
+ORD-1345,2026-03-24,Maryam Iqbal,Mouse Pad,4,940.45,3761.8,Faisalabad
+ORD-1443,2026-03-24,Bilal Ahmed,Headphones,5,61.61,308.05,Lahore
+ORD-1118,2026-03-25,Ahmed Raza,Headphones,1,962.22,962.22,Islamabad
+ORD-1315,2026-03-25,Sana Malik,Keyboard,5,789.2,3946.0,Rawalpindi
+ORD-1394,2026-03-25,Ahmed Raza,Webcam Hd,2,866.27,1732.54,Lahore
+ORD-1065,2026-03-26,Hira Shah,Ssd 512Gb,2,544.16,1088.32,Faisalabad
+ORD-1073,2026-03-26,Ali Ahmad,Power Bank,1,686.0,685.63,Multan
+ORD-1104,2026-03-26,Bilal Hussain,Power Bank,3,383.0,1147.86,Multan
+ORD-1005,2026-03-27,Bilal Hussain,Mouse Pad,1,736.82,736.82,Faisalabad
+ORD-1105,2026-03-27,Ali Ahmad,Webcam Hd,5,126.0,628.7,Islamabad
+ORD-1416,2026-03-27,Hassan Raza,Mouse Pad,3,552.14,1656.42,Faisalabad
+ORD-1424,2026-03-27,Ahmed Raza,Headphones,1,100.02,100.02,Karachi
+ORD-1121,2026-03-28,Ali Ahmad,Usb-C Cable,1,184.0,184.19,Lahore
+ORD-1142,2026-03-28,Maryam Iqbal,Monitor 27 Inch,3,737.94,2213.82,Karachi
+ORD-1200,2026-03-28,Usman Ali,Usb-C Cable,2,1155.88,2311.76,Multan
+ORD-1201,2026-03-28,Ahmed Raza,Wireless Mouse,2,699.25,1398.5,Multan
+ORD-1322,2026-03-28,Sana Malik,Keyboard,5,513.51,2567.55,Faisalabad
+ORD-1384,2026-03-28,Usman Ali,Power Bank,2,510.0,1019.08,Islamabad
+ORD-1448,2026-03-28,Danish Ali,Keyboard,1,1171.0,1171.39,Lahore
+ORD-1009,2026-03-29,Bilal Hussain,Mouse Pad,3,925.79,2777.37,Lahore
+ORD-1056,2026-03-29,Nida Fatima,Keyboard,3,949.0,2845.74,Faisalabad
+ORD-1099,2026-03-29,Zara Khan,Webcam Hd,5,776.95,3884.75,Karachi
+ORD-1127,2026-03-29,Bilal Hussain,Usb-C Cable,2,1055.38,2110.76,Faisalabad
+ORD-1131,2026-03-29,Ahmed Raza,Mouse Pad,4,101.47,405.88,Karachi
+ORD-1256,2026-03-29,Ahmed Raza,Power Bank,3,594.21,1782.63,Rawalpindi
+ORD-1258,2026-03-29,Usman Ali,Power Bank,2,782.0,1564.28,Islamabad
+ORD-1272,2026-03-29,Omar Farooq,Power Bank,3,513.73,1541.19,Multan
+ORD-1120,2026-03-30,Sana Malik,Monitor 27 Inch,4,65.19,260.76,Multan
+ORD-1139,2026-03-30,Hira Shah,Power Bank,5,577.39,2886.95,Rawalpindi
+ORD-1174,2026-03-30,Usman Ali,Ssd 512Gb,4,336.25,1345.0,Rawalpindi
+ORD-1210,2026-03-30,Sana Malik,Monitor 27 Inch,3,258.0,775.35,Multan
+ORD-1240,2026-03-30,Ahmed Raza,Headphones,3,948.0,2842.86,Karachi
+ORD-1466,2026-03-30,Sana Malik,Usb-C Cable,1,238.2,238.2,Islamabad
+ORD-1062,2026-03-31,Unknown,Monitor 27 Inch,1,1168.0,1168.18,Rawalpindi
+ORD-1125,2026-03-31,Unknown,Keyboard,3,617.88,1853.64,Faisalabad
+ORD-1234,2026-03-31,Hira Shah,Mouse Pad,5,683.0,3414.35,Rawalpindi
+ORD-1323,2026-03-31,Danish Ali,Wireless Mouse,4,173.65,694.6,Islamabad
+ORD-1346,2026-03-31,Nida Fatima,Mouse Pad,2,212.79,425.58,Rawalpindi
+ORD-1415,2026-03-31,Ahmed Raza,Keyboard,4,383.0,1531.24,Karachi
